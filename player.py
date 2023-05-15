@@ -9,5 +9,6 @@ Player Class
 
 
 class Player:
-  def __init__(self, color) = color
+  def __init__(self, color):
     self.color = color
+    self.pieces = []

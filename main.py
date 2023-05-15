@@ -39,3 +39,5 @@ they can be empty, or they can hold actually chess pieces
 
 fish = Board()
 fish.print_board()
+
+
